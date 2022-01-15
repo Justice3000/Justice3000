@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Olympic-Game
 - 🌱 I’m currently learning three.js
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
