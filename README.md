@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning three.js
-- 📫 How to reach me: ...
+- 📫 How to reach me: dani.indreika@gmail.com
 - ⚡ Fun fact: ...
 
 ### Languages and Tools:
