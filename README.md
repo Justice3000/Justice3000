@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning three.js
+- 🌱 I’m currently looking for Learning at Work place for my studies.
 - 📫 How to reach me: dani.indreika@gmail.com
 - ⚡ Fun fact: ...
 
