@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently looking for Learning at Work place for my studies.
+- 🌱 I’m currently becoming a father of my second child. Literally I'm at the hospital it may happen at any moment
 - 📫 How to reach me: dani.indreika@gmail.com
 - ⚡ Fun fact: ...
 
