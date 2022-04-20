@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing my Learing at Workplace II
 - 📫 How to reach me: dani.indreika@gmail.com
 - ⚡ Fun fact: ...
-
+- Dipped my fingers into three.js https://ogame-2aavl.ondigitalocean.app
 ### Languages and Tools:
 
 - JavaScript
