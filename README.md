@@ -4,6 +4,7 @@
 - 📫 How to reach me: dani.indreika@gmail.com
 - ⚡ Fun fact: ...
 - Dipped my fingers into three.js https://ogame-2aavl.ondigitalocean.app || sourcecode https://github.com/Justice3000/olympic-game
+Please don't laught it was my very first time.
 ### Languages and Tools:
 
 - JavaScript
