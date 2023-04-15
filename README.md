@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently looking for a job.
-- 📫 How to reach me: dani.indreika@gmail.com
-- ⚡ Fun fact: ...
-- Dipped my fingers into three.js https://ogame-2aavl.ondigitalocean.app || sourcecode https://github.com/Justice3000/olympic-game
-Please don't laught it was my very first time.
 ### Languages and Tools:
 
 - JavaScript
@@ -20,6 +15,7 @@ Please don't laught it was my very first time.
 - GitHub
 - Zustand
 - three.js
+- SQL
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
